@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome!"
 ---
 
-Caption here
+Happy Holidays!
 
 ![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
 {: .center}
